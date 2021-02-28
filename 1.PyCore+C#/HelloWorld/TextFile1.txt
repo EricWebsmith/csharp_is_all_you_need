@@ -1,0 +1,3 @@
+echo start
+python hello_world.py
+pause

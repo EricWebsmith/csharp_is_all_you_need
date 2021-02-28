@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharpUI.Debug.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="package" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Scikit-Learn</Value>
+    </Setting>
+    <Setting Name="category" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Regression</Value>
+    </Setting>
+    <Setting Name="algorithm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LinearRegression</Value>
+    </Setting>
+    <Setting Name="dataset" Type="System.String" Scope="User">
+      <Value Profile="(Default)">boston.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,7 @@
+Package,Category,Algorithm,Dataset,Metrics,Score
+Scikit-Learn,Regression,LinearRegression,boston.csv,R Squared,0.7
+Scikit-Learn,Classification,LogisticRegression,diabetes.csv,Accuracy,0.77
+Scikit-Learn,Regression,GradientBoostingRegressor,boston.csv,R Squared,0.98
+Scikit-Learn,Classification,GradientBoostingClassifier,faud.csv,Accuracy,0.69
+XGB,Regression,XGBRegressor,boston.csv,R Squared,0.77
+XGB,Classification,XGBClassifier,tatanic.csv,Accuracy,0.8
